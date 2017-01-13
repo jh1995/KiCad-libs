@@ -8,7 +8,8 @@ So far the following components have been drawn in KiCad format.
 
 *NIXIE*
 - symbols have been made generic taking into account the possible presence of decimal point(s), two anode pins, two anodes (still work in progress, but symbols match available footprints)
-- ZM1332/5870S and all equivalents
+- SK-207 socket for ZM1332/5870S and all equivalents
+- Eurogrid 55702 for ZM1000/ZM1001 and certainly more
 
 *VFD*
 - IV-6
