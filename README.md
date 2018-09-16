@@ -14,6 +14,8 @@ So far the following components have been drawn in KiCad format.
 **VFD**
 - IV-3 to be done
 - IV-6
+- IV-11
+- IV-17 (collected from https://github.com/mrnuke/kicad_misc_libs)
 - IV-22
 
 **OLD LED DISPLAY**
