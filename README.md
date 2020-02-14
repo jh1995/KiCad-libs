@@ -20,6 +20,6 @@ So far the following components have been drawn in KiCad format.
 
 **OLD LED DISPLAY**
 - TIL305
-- TIL306/TIL307 to be done
+- TIL306/TIL307 to be tested
 - TIL311
 - HP 5082-7300 to be done
