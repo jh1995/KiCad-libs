@@ -20,7 +20,9 @@ So far the following components have been drawn in KiCad format.
 
 **OLD LED DISPLAY**
 - TIL305
-- TIL306/TIL307 NO symbol / YES footprint
-- TIL308/TIL309 YES symbol / NO footprint
+- TIL306
+- TIL307
+- TIL308
+- TIL309
 - TIL311
 - HP 5082-7300 planned
