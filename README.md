@@ -19,6 +19,9 @@ So far the following components have been drawn in KiCad format.
 - IV-18
 - IV-22
 
+**DEKATRON**
+- Western Electric 6167 planned
+
 **OLD LED DISPLAY**
 - TIL305
 - TIL306
@@ -27,3 +30,4 @@ So far the following components have been drawn in KiCad format.
 - TIL309
 - TIL311
 - HP 5082-7300 planned
+- Avago HDSP-Uxxx (HDSP-U111) planned
