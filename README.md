@@ -7,9 +7,12 @@ Feel free to contribute with your symbols and footprints, so perhaps one day the
 So far the following components have been drawn in KiCad format.
 
 **NIXIE**
-- symbols have been made generic taking into account the possible presence of decimal point(s), two anode pins, two anodes (still work in progress, but symbols match available footprints)
+Symbols have been made generic taking into account the possible presence of decimal point(s), two anode pins, two anodes (still work in progress, but symbols match available footprints)
 - SK-207 socket footprint for ZM1332/5870S and all equivalents
 - Eurogrid 55702 footprint for ZM1000/ZM1001 and certainly more
+
+**DEKATRON** (in the Nixie library)
+- Western Electric 6167 and its B13B+3 footprint
 
 **VFD**
 - IV-3 to be done
@@ -18,9 +21,6 @@ So far the following components have been drawn in KiCad format.
 - IV-17 (collected from https://github.com/mrnuke/kicad_misc_libs)
 - IV-18
 - IV-22
-
-**DEKATRON**
-- Western Electric 6167 planned
 
 **OLD LED DISPLAY**
 - TIL305
