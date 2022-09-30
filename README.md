@@ -10,6 +10,7 @@ So far the following components have been drawn in KiCad format.
 Symbols have been made generic taking into account the possible presence of decimal point(s), two anode pins, two anodes (still work in progress, but symbols match available footprints)
 - SK-207 socket footprint for ZM1332/5870S and all equivalents
 - Eurogrid 55702 footprint for ZM1000/ZM1001 and certainly more
+- B13B footprint for ZM1020 and alike
 
 **DEKATRON** (in the Nixie library)
 - Western Electric 6167 and its B13B+3 footprint
@@ -35,3 +36,7 @@ Symbols have been made generic taking into account the possible presence of deci
 **MICROWAVE MODULES**
 - HB100
 - CDM324 AKA InnoSent IPM165
+
+**OTHER COMPONENTS**
+- TPIC6B595 driver
+
