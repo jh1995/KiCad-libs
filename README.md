@@ -8,6 +8,7 @@ So far the following components have been drawn in KiCad format.
 
 **NIXIE**
 Symbols have been made generic taking into account the possible presence of decimal point(s), two anode pins, two anodes (still work in progress, but symbols match available footprints)
+- SK-116 footprint for ZM1120/ZM1122 and equivalents, with and without centre hole
 - SK-207 socket footprint for ZM1332/5870S and all equivalents
 - Eurogrid 55702 footprint for ZM1000/ZM1001 and certainly more
 - B13B footprint for ZM1020 and alike
