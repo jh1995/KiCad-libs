@@ -34,6 +34,12 @@ Symbols have been made generic taking into account the possible presence of deci
 - HP 5082-7300 planned
 - Avago HDSP-Uxxx (HDSP-U111) planned
 
+**OPTOSUPPLY**
+- OS5RKA5111P (high lumen, narrow beam, clear THT LED)
+- OS5RKA5201P (high lumen, narrow beam, clear THT LED)
+- OS5OKA5201P (high lumen, narrow beam, clear THT LED)
+- OS6YKA5201P (high lumen, narrow beam, clear THT LED)
+
 **MICROWAVE MODULES**
 - HB100
 - CDM324 AKA InnoSent IPM165
